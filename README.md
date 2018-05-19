@@ -1,2 +1,2 @@
 # Kent_on_Tech
-Notes and scribbles
+Notes, scribbles, tutorials, whitepapers, reviews, ...
