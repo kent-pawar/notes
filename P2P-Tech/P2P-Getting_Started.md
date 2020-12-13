@@ -1,0 +1,2 @@
+- https://www.geeksforgeeks.org/p2ppeer-to-peer-file-sharing/
+- [Resource Location in P2P Systems](https://www.gsd.inesc-id.pt/~ler/reports/joaoalveirinho-midterm.pdf)
