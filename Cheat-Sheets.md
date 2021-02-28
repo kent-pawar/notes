@@ -6,6 +6,7 @@ Dump of cheat-sheets - mainly as a reminder that these exist and I should refer 
 ## General development
 ### SQL Injection Prevention Cheat Sheet
 - https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+- All : https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html
 
 ### Logging Cheat Sheet
 - https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html
