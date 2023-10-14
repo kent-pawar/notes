@@ -1,2 +1,2 @@
-# Kent_on_Tech
+# Kent's Tech Notes
 Notes, scribbles, tutorials, whitepapers, reviews, ...
