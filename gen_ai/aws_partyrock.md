@@ -7,6 +7,7 @@ Prompt: Based on the following question: '[User Question]' and the database sche
 
 What are the top 5 selling products?
 
+
 products(id, name, price)
 customer(id, name, email, address, phone_number)
 sales(id, product_id, cust_id, quantity, sales_date)
